@@ -43,7 +43,7 @@ Each project folder contains:
 
 - **Defect Tracking Tools:**  
   - Excel
-  - Google Docs
+  - Google Docs/MS Word
   - JIRA (For Bug tracing and Defect Report)
   - TestRail (For Test Case , Test Plan document)
 
