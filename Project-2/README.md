@@ -1,9 +1,9 @@
 # 📌 Project-2: Manual Testing of SauceDemo E-Commerce Workflow
 
-Welcome to my **Intermediate Manual Testing Project 🚀**.
+Welcome to my **Intermediate Manual Testing Project 🚀**.<br>
 In this project, I performed **end-to-end manual testing** on the **SauceDemo E-commerce Application**.
 
-The objective of this project is to simulate a **real QA testing process using the STLC (Software Testing Life Cycle)**.
+The objective of this project is to simulate a **real QA testing process using the STLC (Software Testing Life Cycle)**.<br>
 From **Day-1 to Day-6**, I created all testing deliverables step-by-step, just like a real QA team working on a sprint.
 
 The workflow tested in this project:
@@ -16,7 +16,9 @@ The workflow tested in this project:
 
 🔗 https://www.saucedemo.com/
 
-SauceDemo is a demo **E-commerce web application** widely used for practicing **manual and automation testing**.
+**SauceDemo** is a demo **E-commerce web application** widely used for practicing **manual and automation testing**.
+
+![SauceDemo](Asset/SauceDemo.png)
 
 ---
 
@@ -24,9 +26,10 @@ SauceDemo is a demo **E-commerce web application** widely used for practicing **
 
 **Excel / Google Sheets**
 → Test Scenarios
-→ Test Cases
-→ Test Execution Report
-→ Defect Report
+→ Test Case
+
+**Jira**
+→ Defect/Bug Report
 
 **MS Word / Google Docs**
 → Requirement Analysis
@@ -95,11 +98,11 @@ This project follows the **Software Testing Life Cycle (STLC)** and each phase d
 
 This project tests the **complete user purchase flow**:
 
-1️⃣ User Login
-2️⃣ Product Listing Page
-3️⃣ Add Product to Cart
-4️⃣ Cart Verification
-5️⃣ Checkout Process
+1️⃣ User Login<br>
+2️⃣ Product Listing Page<br>
+3️⃣ Add Product to Cart<br>
+4️⃣ Cart Verification<br>
+5️⃣ Checkout Process<br>
 6️⃣ Order Confirmation
 
 ---
@@ -114,24 +117,24 @@ This project tests the **complete user purchase flow**:
 
 # 🎯 Key Learning Outcomes
 
-✔ Understanding **end-to-end STLC process**
-✔ Writing professional **Test Plan & Test Scenarios**
-✔ Designing structured **Test Cases**
-✔ Performing **Test Execution & Defect Reporting**
-✔ Creating **Test Summary Report** like real QA projects
+✔ Understanding **end-to-end STLC process**<br>
+✔ Writing professional **Test Plan & Test Scenarios**<br>
+✔ Designing structured **Test Cases**<br>
+✔ Performing **Test Execution & Defect Reporting**<br>
+✔ Creating **Test Summary Report** like real QA projects<br>
 ✔ Hands-on testing of **E-commerce workflow**
 
 ---
 
 # 📌 Project Status
 
-🚧 **In Progress (Intermediate Level Project)**
+🚧 **In Progress (Intermediate Level Project)**<br>
 Deliverables are being added **Day-wise following STLC**.
 
 ---
 
 # 👨‍💻 Author
 
-**Adarsh Jayprakash Mishra**
-🎓 B.Sc. Computer Science
+**Adarsh Jayprakash Mishra**<br>
+🎓 B.Sc. Computer Science<br>
 💻 Aspiring **QA Engineer & Automation Tester**
